@@ -1,4 +1,4 @@
-  =>  Template Name    : ECOURSES - Online Courses HTML Template
+  =>  Template Name    : School of tech
 
   =>  Template Link    : https://htmlcodex.com/online-courses-html-template
 
